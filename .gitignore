@@ -1,8 +1,0 @@
-venv
-runs
-.vscode
-videos
-wandb
-all_data.csv
-trained_models
-trained_models.zip
